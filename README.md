@@ -76,6 +76,16 @@ Gender disparity in STEM education remains a global challenge with female gradua
 - **Form Validation** and error handling
 - **Cross-platform** support (Web, Desktop, Mobile)
 
+Mobile
+
+<img width="356" height="600" alt="image" src="https://github.com/user-attachments/assets/0e08dbb2-d28a-4bd0-9147-1ce23d06f40b" />
+
+
+Desktop
+
+<img width="1102" height="605" alt="image" src="https://github.com/user-attachments/assets/5da49bcb-0899-4417-ac12-3d30d737202b" />
+
+
 ### Troubleshooting
 - Ensure API backend is running and accessible
 - For web: Allow browser to access the application
