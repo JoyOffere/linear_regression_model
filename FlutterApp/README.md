@@ -5,9 +5,9 @@ Gender disparity in STEM education remains a global challenge with female gradua
 
 ## API Endpoint
 **Publicly Available Prediction API:**
-- **URL:** `https://your-api-domain.com/predict` *(Replace with your deployed API URL)*
+- **Model URL:** `https://fem-2sgu.onrender.com/predict` 
 - **Method:** POST
-- **Swagger UI:** `https://your-api-domain.com/docs`
+- **Swagger UI:** `https://fem-2sgu.onrender.com/docs`
 
 **Request Format:**
 ```json
@@ -30,8 +30,7 @@ Gender disparity in STEM education remains a global challenge with female gradua
 ```
 
 ## Video Demo
-🎥 **YouTube Demo:** [STEMFEM App Demo - 5 Minutes](https://youtube.com/watch?v=your-video-id)
-*(Replace with your actual YouTube video link)*
+🎥 **YouTube Demo:** [STEMFEM App Demo - 5 Minutes]
 
 ## Mobile App Setup Instructions
 
