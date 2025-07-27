@@ -1,0 +1,16 @@
+# Core FastAPI dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+
+# Minimal ML dependencies - Python 3.11.9 compatible
+numpy==1.26.4
+scipy==1.12.0
+joblib==1.3.2
+pandas==2.1.3
+scikit-learn==1.6.1
+threadpoolctl>=3.1.0
+
+# Additional utilities
+typing-extensions>=4.5.0

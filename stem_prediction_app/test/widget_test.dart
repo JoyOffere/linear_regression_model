@@ -1,2 +1,0 @@
-im':fm.';buisuessfulappbuiouhbyTypMrlApHmescen ona expetd lemetSetlagerscreeszto voidlyout issusview.hyscalSiz = iz1200, 800.viewvicixlRao=1.0;
-pumWgconsSTEMoApp(     LookfokylmntCongStgs //RsthcrzadTDwn(er.view.rPysiSz(); vew.reDvePixelRa}
