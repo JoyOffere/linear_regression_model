@@ -30,7 +30,7 @@ Gender disparity in STEM education remains a global challenge with female gradua
 ```
 
 ## Video Demo
-🎥 **YouTube Demo:** [STEMFEM App Demo - 5 Minutes]
+🎥 **YouTube Demo:** [https://youtu.be/ulkJTqmuuVQ]
 
 ## Mobile App Setup Instructions
 
